@@ -1,0 +1,4 @@
+C:\Laxmikant\D\Applications\dotnetbloggers - code\CustomerBulkUpload\CustomerBulkUpload\bin\Debug\CustomerBulkUpload.exe
+C:\Laxmikant\D\Applications\dotnetbloggers - code\CustomerBulkUpload\CustomerBulkUpload\bin\Debug\CustomerBulkUpload.pdb
+C:\Laxmikant\D\Applications\dotnetbloggers - code\CustomerBulkUpload\CustomerBulkUpload\obj\x86\Debug\CustomerBulkUpload.exe
+C:\Laxmikant\D\Applications\dotnetbloggers - code\CustomerBulkUpload\CustomerBulkUpload\obj\x86\Debug\CustomerBulkUpload.pdb
